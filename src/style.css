@@ -1,0 +1,34 @@
+* {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+body {
+    background-color: #E3D5CA;
+}
+ nav, .navbar, .navbar-expand-lg{
+    background-color: #F5EBE0;
+    padding: 0em;
+}
+
+#container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    padding: 0.5em;
+}
+
+form {
+    padding-top: 1em;
+}
+
+form, .dropdown-menu, label, input, button, .form-check, .form-label, .form-control {
+    background-color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
